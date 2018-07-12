@@ -1,0 +1,28 @@
+KEEPK: running the experiments on the sparse training datasets biased towards effective therapies...
+Running KRL, seed 10000, keepk 5, keepk_ratio 1
+Running KRL, seed 10000, keepk 5, keepk_ratio 0.2
+Running KRL, seed 20000, keepk 5, keepk_ratio 1
+Running KRL, seed 20000, keepk 5, keepk_ratio 0.2
+KEEPK: running the experiments on the sparse training datasets biased towards effective therapies...
+Running LKRL, seed 10000, keepk 5, keepk_ratio 1
+Running LKRL, seed 10000, keepk 5, keepk_ratio 0.2
+Running LKRL, seed 20000, keepk 5, keepk_ratio 1
+Running LKRL, seed 20000, keepk 5, keepk_ratio 0.2
+/home/mase/miniconda3/envs/krl/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:491: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Fitting data with very small alpha may cause precision problems.
+  ConvergenceWarning)
+KEEPK: running the experiments on the sparse training datasets biased towards effective therapies...
+Running KRR, seed 10000, keepk 5, keepk_ratio 1
+Running KRR, seed 10000, keepk 5, keepk_ratio 0.2
+Running KRR, seed 20000, keepk 5, keepk_ratio 1
+Running KRR, seed 20000, keepk 5, keepk_ratio 0.2
+KEEPK: running the experiments on the sparse training datasets biased towards effective therapies...
+Running RF, seed 10000, keepk 5, keepk_ratio 1
+Running RF, seed 10000, keepk 5, keepk_ratio 0.2
+Running RF, seed 20000, keepk 5, keepk_ratio 1
+Running RF, seed 20000, keepk 5, keepk_ratio 0.2
+KEEPK: running the experiments on the sparse training datasets biased towards effective therapies...
+Running EN, seed 10000, keepk 5, keepk_ratio 1
+Running EN, seed 10000, keepk 5, keepk_ratio 0.2
+Running EN, seed 20000, keepk 5, keepk_ratio 1
+Running EN, seed 20000, keepk 5, keepk_ratio 0.2
+Finished.
